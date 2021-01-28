@@ -94,14 +94,15 @@ width: 50%;
 div:nth-child(4){
 width: 100%;
 }
+p{
+    font-size: 20px;
+}
 }
 
 @media (max-width: 767px) {
 div {
 width: 100%;
 }
-p{
-    font-size: 20px;
-}
+
 
 }
